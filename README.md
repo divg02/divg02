@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @divg02
-- 👀 I’m interested in It Engineering
+<!--- 
+- 👀 I’m interested in IT Engineering 
+--->
 - 🌱 I’m currently learning Data Engineeering
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
